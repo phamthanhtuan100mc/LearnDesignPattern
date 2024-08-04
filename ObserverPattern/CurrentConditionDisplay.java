@@ -1,5 +1,3 @@
-
-
 import WeatherForecast.DisplayElement;
 import WeatherForecast.Observer;
 import WeatherForecast.Subject;
