@@ -5,7 +5,7 @@ import WeatherForecast.Observer;
 import WeatherForecast.Subject;
 import WeatherForecast.WeatherData;
 
-public class CurrentConditionDisplay implements Observer, DisplayElement{
+public class CurrentConditionDisplay implements Observer, DisplayElement {
 
 	private float temperature;
 	private float humidity;
